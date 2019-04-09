@@ -6,7 +6,7 @@ A core part of our work is to actively engage end-users and other stakeholders t
 
 This means that we combine ethnographic fieldwork, co-design and prototyping: We move between exploring, experimenting and evaluating. 
 
-*Exploring* means that we visit patients in their homes or clinicians in the clinic. We observe their daily life or work and talk about their problems and needs. We also engage them in asking “what if” and together we explore and envision possible better futures with the SCAUT platform and how we can help realising it. 
+*Exploring* means that we visit patients in their homes or clinicians in the clinic. We observe their daily life or workpractice and collect insights regarding their problems and needs. Furthermore, we engage the end-users in asking “what if” and together we explore and envision possible better futures with the SCAUT platform and how we can contribute to realising it. 
 
 *Experimenting* means that we sketch, create mock-ups and prototypes to get feedback on early versions of possible new features. Here, we collaborate closely with Engineering around development and implementation of new features. 
 
